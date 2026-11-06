@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/IHesamI/ShiftBridge-UI.git
+[submodule "server"]
+	path = server
+	url = https://github.com/IHesamI/ShiftBridge-server.git
