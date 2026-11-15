@@ -1,1 +1,1 @@
-user flow document
+authentication/onboarding worker flow, and manager flow
